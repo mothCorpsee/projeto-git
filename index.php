@@ -7,5 +7,10 @@
 <body>
     <h1>Projeto da dupla</h1>
     <p>Projeto criado para praticar Git e GitHub.</p>
+    <h2>Integrantes</h2>
+        <ul>
+            <li>Mothie</li>
+            <li>Yeasir</li>
+        </ul>
 </body>
 </html>
