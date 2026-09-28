@@ -4,13 +4,20 @@
     <meta charset="UTF-8">
     <title>Projeto Git</title>
 </head>
-<body>
-    <h1>Projeto da dupla</h1>
-    <p>Projeto criado para praticar Git e GitHub.</p>
-    <h2>Integrantes</h2>
+    <body>
+        <h1>Projeto da dupla</h1>
+        <p>Projeto criado para praticar Git e GitHub.</p>
+        <h2>Integrantes</h2>
         <ul>
             <li>Mothie</li>
             <li>Yeasir</li>
         </ul>
-</body>
+        <h2>Tecnologias utilizadas</h2>
+        <ul>
+            <li>PHP</li>
+            <li>HTML</li>
+            <li>Git</li>
+            <li>GitHub</li>
+        </ul>
+    </body>
 </html>
