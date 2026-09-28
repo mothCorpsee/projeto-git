@@ -12,5 +12,12 @@
             <li>Mothie</li>
             <li>Yeasir</li>
         </ul>
+        <h2>Tecnologias utilizadas</h2>
+            <ul>
+                <li>PHP</li>
+                <li>HTML</li>
+                <li>Git</li>
+                <li>GitHub</li>
+            </ul>
 </body>
 </html>
